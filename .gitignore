@@ -3,6 +3,9 @@ gc.txt
 ms.txt
 gp.txt
 proxies.txt
+temp.txt
 
 *.exe
 dist/
+
+py/config.py
